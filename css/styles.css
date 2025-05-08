@@ -44,17 +44,17 @@ body {
 }
 /* хедер */
 
-.section-1 {
+.section_one {
   background-color: #2e2f42;
 }
-.section-1-h1 {
+.section-one_h {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-.section-1-button {
+.section_one_button {
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -62,10 +62,11 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  cursor: pointer;
 }
-.section-1-button:hover,
-.section-1-button:focus {
-  color: #404bbf;
+.section_one_button:hover,
+.section_one_button:focus {
+  background-color: #404bbf;
 }
 /* секція 1 */
 
