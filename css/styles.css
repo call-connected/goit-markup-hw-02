@@ -25,26 +25,17 @@ body {
 .contact {
   font-style: normal;
 }
-.email {
+.call {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.email:focus,
-.email:hover {
+.call:focus,
+.call:hover {
   color: #404bbf;
 }
-.tell {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.tell:focus,
-.tell:hover {
-  color: #404bbf;
-}
+
 /* хедер */
 
 .section_back {
