@@ -114,3 +114,9 @@ body {
 .header_studio {
   color: #2e2f42;
 }
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
